@@ -6,7 +6,7 @@
 - ❓ Ask me about anything related to MERN stack and related technologies  
 
 
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" alt="Coding" width="600px" align="center"
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" alt="Coding" width="600px" align="center"/>
 
 <br/>  
 
@@ -26,13 +26,7 @@
 </a>  
 </div>  
   
-
-<br/>    
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Ritika032&&style=flat-square" align="center" />
-</div>  
-  
+     
 <br/>  
 
 # 💻 Tech Stack:
@@ -42,4 +36,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=Ritika032&theme=bear&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ritika032&theme=bear&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ritika032&theme=bear&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+<br/>
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Ritika032&&style=flat-square" align="center" />
+</div> 
 
