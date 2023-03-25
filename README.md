@@ -7,7 +7,7 @@
 </div>
 
 
-<a><img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" alt="Coding" align="center" width=300px height=300px/>
+<a><img align="center" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" alt="Coding" width=500px h/>
 </a>
      
 
@@ -20,7 +20,6 @@
 # <div align="center">📊 GitHub Stats: </div>
 ![](https://github-readme-stats.vercel.app/api?username=Ritika032&theme=bear&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ritika032&theme=bear&hide_border=true)
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ritika032&theme=bear&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 <br/>
